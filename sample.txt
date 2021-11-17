@@ -1,0 +1,48 @@
+Hello there!Hi {},
+
+This is a reminder that you have {} assignments left to 
+submit before you can graduate. You're current grade is {} and can increase 
+to {} if you submit all assignments before the due date.
+
+Hi Arsnh,
+
+This is a reminder that you have 45 assignments left to 
+submit before you can graduate. You're current grade is 99 and can increase 
+to 189 if you submit all assignments before the due date.
+
+Hi Atieno,
+
+This is a reminder that you have 2 assignments left to 
+submit before you can graduate. You're current grade is 66 and can increase 
+to 70 if you submit all assignments before the due date.
+
+Hi Atieno,
+
+This is a reminder that you have 3 assignments left to 
+submit before you can graduate. You're current grade is 99 and can increase 
+to 105 if you submit all assignments before the due date.
+
+Hi Mas,
+
+This is a reminder that you have 9 assignments left to 
+submit before you can graduate. You're current grade is 81 and can increase 
+to 99 if you submit all assignments before the due date.
+
+Hi Jane,
+
+This is a reminder that you have 7 assignments left to 
+submit before you can graduate. You're current grade is 73 and can increase 
+to 87 if you submit all assignments before the due date.
+
+Hi All,
+
+This is a reminder that you have 4 assignments left to 
+submit before you can graduate. You're current grade is 65 and can increase 
+to 73 if you submit all assignments before the due date.
+
+Hi Xis,
+
+This is a reminder that you have 1 assignments left to 
+submit before you can graduate. You're current grade is 44 and can increase 
+to 46 if you submit all assignments before the due date.
+
